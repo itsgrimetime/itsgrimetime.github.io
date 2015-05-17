@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://magrimes.github.io/sitemap.xml 
