@@ -25,10 +25,10 @@ Oh, and here's some random pictures from throughout the day.
 ![Field][trial-field]
 ![Park Panorama][newaygo-park-pano]
 
-[newaygo-park-ride-map]: /images/newaygo-park-ride-map.png
-[bike-rockford]: /images/bike-rockford.jpg
-[lunch-rockford]: /images/lunch-rockford.jpg
-[trial-road-pic]: /images/trial-road-pic.jpg
-[trial-field]: /images/trial-field.jpg
-[newaygo-park-pano]: /images/newaygo-park-pano.jpg
+[newaygo-park-ride-map]: http://i.imgur.com/QHl9cHw.png
+[bike-rockford]: http://i.imgur.com/yWi0T2K.jpg
+[lunch-rockford]: http://i.imgur.com/fQCkkt1.jpg
+[trial-road-pic]: http://i.imgur.com/q8hBf2K.jpg
+[trial-field]: http://i.imgur.com/Po7wz6S.jpg
+[newaygo-park-pano]: http://i.imgur.com/owc2b7l.jpg
 
