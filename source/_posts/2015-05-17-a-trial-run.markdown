@@ -11,24 +11,17 @@ I wanted to take the set-up out for a trial-run at least once before embarking o
 
 I ended up deciding Newaygo State Park was a good distance (~40 miles). It also allowed me to ride a bit on both paved and dirt roads as well as paved and gravel trails.
 
-![Google Maps of Ride][newaygo-park-ride-map]
+{% imgcap http://i.imgur.com/QHl9cHw.png Google Map of the Ride %}
 
 Overall, the ride up wasn't bad. Riding on some of the county roads was a little scary at first, since people speed like crazy down them.
 
 Departure is scheduled for Monday the 18th, and Muskegon State Park is the first destination (~48 miles). I'm getting stoked!
 
-Oh, and here's some random pictures from throughout the day.
+Oh, and here's some random pictures from throughout the day (the popout isn't working, so if you want to see a bigger version of a picture just right click and 'Open Image in New Tab').
 
-![The Ride][bike-rockford]
-![Lunch][lunch-rockford]
-![Road][trial-road-pic]
-![Field][trial-field]
-![Park Panorama][newaygo-park-pano]
-
-[newaygo-park-ride-map]: http://i.imgur.com/QHl9cHw.png
-[bike-rockford]: http://i.imgur.com/yWi0T2K.jpg
-[lunch-rockford]: http://i.imgur.com/fQCkkt1.jpg
-[trial-road-pic]: http://i.imgur.com/q8hBf2K.jpg
-[trial-field]: http://i.imgur.com/Po7wz6S.jpg
-[newaygo-park-pano]: http://i.imgur.com/owc2b7l.jpg
+{% imgcap http://i.imgur.com/yWi0T2K.jpg The Gear %}
+{% imgcap http://i.imgur.com/fQCkkt1.jpg Lunch %}
+{% imgcap http://i.imgur.com/q8hBf2K.jpg Some county road out west of Sand Lake %}
+{% imgcap http://i.imgur.com/Po7wz6S.jpg The way the sun was hitting this field was pretty cool, but the camera didn't really capture it %}
+{% imgcap http://i.imgur.com/owc2b7l.jpg A crappy panorama of one of the views at Newaygo State Park over the Croton Dam Pond %}
 
