@@ -6,8 +6,6 @@ comments: true
 categories: 
 ---
 
-(Not all of my images are uploaded yet, so I'll be updating this again with more pictures.)
-
 {% imgcap http://i.imgur.com/irrZMkR.png Google Map of Ride to Muskegon %}
 
 I dont remember a lot of this ride already, (its curretly day 3, time on the bike is starting to blend together in my head).
